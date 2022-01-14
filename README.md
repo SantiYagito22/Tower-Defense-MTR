@@ -2,5 +2,5 @@
 
 Practica PGV 2021-2022
 
-POR FAVOR FUNC
+POR FAVOR
 
